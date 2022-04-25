@@ -1,16 +1,16 @@
 # Random-Number-Generator
 Random Number Generator for beginners. 
 
-💡 Learning from this project? 
+# 💡 Learning from this project? 
  
-📌 Math Object
-📌 Random Method
-📌 Trunc Method
+📌 - Math Object
+📌 - Random Method
+📌 - Trunc Method
 
 🛠 It's used when we want to build a ludo/dice game.
 
 
-📌 Math Object
+# 📌 Math Object
 
 → Math object all you to perform the mathematical tasks on numbers.
 
@@ -20,7 +20,7 @@ Random Number Generator for beginners.
 
 → The Math object is a built-in object that has some properties and methods for mathematical calculations.
 
-📌 Random Method
+# 📌 Random Method
 
 → This is a method of the Math object that is used to generate random numbers.
 
@@ -30,7 +30,7 @@ Random Number Generator for beginners.
 
 → Now the number generated will be between 0 to 100 or 0 to 101 but 101 is not included.
 
-📌 Trunc Method
+# 📌 Trunc Method
 
 → This is also a method of the Math object that is used to remove fractional digits after the dot.
 
