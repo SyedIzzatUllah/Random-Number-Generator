@@ -30,7 +30,7 @@ Random Number Generator for beginners.
 
 → Now the number generated will be between 0 to 100 or 0 to 101 but 101 is not included.
 
-# 📌 Trunc Method
+# 📌 Trunc Method  
 
 → This is also a method of the Math object that is used to remove fractional digits after the dot.
 
