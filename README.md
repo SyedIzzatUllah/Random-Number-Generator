@@ -34,5 +34,5 @@ Random Number Generator for beginners.
 
 → This is also a method of the Math object that is used to remove fractional digits after the dot.
 
-→ Or, it returns the integer value.
+→ Or, it returns the integer value. 
 
