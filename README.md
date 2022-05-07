@@ -10,7 +10,7 @@ Random Number Generator for beginners.
 🛠 It's used when we want to build a ludo/dice game.
 
 
-# 📌 Math Object
+# 📌 Math Object   
 
 → Math object all you to perform the mathematical tasks on numbers.
 
